@@ -2,4 +2,8 @@
 <br>
 It has not been extensively tested and continues to undergo refinement.
 
+``` 
+cd /folder/to/sort
+python /path/to/pycomsort.py
 
+```
