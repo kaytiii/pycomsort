@@ -11,7 +11,7 @@ import os.path
 
 #directory = os.getcwd()
 
-directory = "/Users/kayti/Desktop/Projects/pycomsort_dev/test_data/"
+directory = "/Users/kayti/Desktop/pycom_sort_test/"
 subjids = os.listdir(directory)
 if '.DS_Store' in subjids:
   subjids.remove('.DS_Store')
